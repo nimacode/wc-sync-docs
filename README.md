@@ -679,4 +679,3 @@ WC Server Sync Blocked: Rate Limit Exceeded for client MyClient
 ## پشتیبانی
 **نویسنده:** NimaCode  
 **ایمیل:** nimaghorbani101@gmail.com  
-**وب‌سایت:** https://eevgold.com
